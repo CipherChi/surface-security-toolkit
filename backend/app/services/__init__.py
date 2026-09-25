@@ -1,0 +1,1 @@
+"""Passive data-source integrations."""
